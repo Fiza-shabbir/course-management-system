@@ -12,7 +12,7 @@ System.out.println("enter username");
 name = input.nextLine();
 System.out.println("enter password");
 password = input.nextLine();
-System.out.println("confirm password");
+System.out.println("confirm  password");
 password = input.nextLine();
 System.out.println("now login !");
 System.out.println("login with your credentials");
